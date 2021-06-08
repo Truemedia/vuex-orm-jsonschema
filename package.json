@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Truemedia/vuex-orm-jsonschema/issues"
   },
-  "homepage": "https://github.com/Truemedia/vuex-orm-jsonschema#readme"
+  "homepage": "https://github.com/Truemedia/vuex-orm-jsonschema#readme",
+  "dependencies": {
+    "ajv": "^8.6.0"
+  }
 }
